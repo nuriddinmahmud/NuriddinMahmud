@@ -1,5 +1,3 @@
-![MasterHead](https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpi9le9v004gzqdqo65p8.gif)
-
 <h1 align="center">Assalama Alaykum, I'm Nuriddin Mahmud</h1>
 <h3 align="center">A passionate Full-Stack developer from Uzbekistan</h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/thumbnail/scrolling-up-green-system-coding-nxt2vg8bl6e4wbo1.gif">
