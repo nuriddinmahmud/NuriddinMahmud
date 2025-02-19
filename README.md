@@ -24,10 +24,6 @@
        alt="nuriddinmahmud" />
 </p>
 
-<p>
-  <img align="center" 
-       src="https://github-readme-streak-stats.herokuapp.com/?user=nuriddinmahmud&theme=dark&background=0D1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff"
-       alt="nuriddinmahmud" />
-</p>
+
 
 
