@@ -10,6 +10,13 @@
 ╚═╝  ╚═══╝  ╚═════╝  ╚═╝ ╚═╝  ╚═╝ ╚═════╝  ╚═════╝   ╚═╝╚═╝  ╚═══╝
 
 
+    ______                            
+   / ____/  ______  ___  ____  _____(_)   _____
+  / __/ | |/_/ __ \/ _ \/ __ \/ ___/ / | / / _ \
+ / /____>  </ /_/ /  __/ / / (__  ) /| |/ /  __/ 
+/_____/_/|_/ .___/\___/_/ /_/____/_/ |___/\___/
+          /_/                                       
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/nuriddinznz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nuriddinznz" height="30" width="40" /></a>
