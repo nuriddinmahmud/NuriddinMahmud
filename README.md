@@ -1,6 +1,15 @@
 <h1 align="center">Assalama Alaykum, I'm Nuriddin Mahmud</h1>
 <h2 align="center">A passionate Full-Stack developer from Uzbekistan</h2>
 
+
+███╗   ██╗ ██╗   ██╗ ██████╗  ██╗ ██████╗  ██████╗   ██╗ ███╗   ██╗
+████╗  ██║ ██║   ██║ ██╔══██╗ ██║ ██╔══██╗ ██╔══██╗  ██║ ████╗  ██║
+██╔██╗ ██║ ██║   ██║ ██████╔  ██║ ██║  ██║ ██║  ██   ██║ ██╔██╗ ██║
+██║╚██╗██║ ██║   ██║ ██ ██║═  ██║ ██║  ██║ ██║  ██║  ██║ ██║╚██╗██║
+██║ ╚████║ ╚██████╔╝ ██║ ██║  ██║ ██████╔╝ ██████╔╝  ██║ ██║ ╚████║
+╚═╝  ╚═══╝  ╚═════╝  ╚═╝ ╚═╝  ╚═╝ ╚═════╝  ╚═════╝   ╚═╝╚═╝  ╚═══╝
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/nuriddinznz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nuriddinznz" height="30" width="40" /></a>
