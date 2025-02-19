@@ -3,7 +3,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/https://codepen.io/nuriddin-mahmud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/nuriddin-mahmud" height="30" width="40" /></a>
 <a href="https://twitter.com/nuriddinznz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nuriddinznz" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/zaylobiddinoff/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/zaylobiddinoff/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCmvXkhmQw8f0cGTtY7PMKoA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@nuriddinzaylobiddinov-p9v" height="30" width="40" /></a>
