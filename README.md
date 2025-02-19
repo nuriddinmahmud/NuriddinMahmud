@@ -1,4 +1,4 @@
-<h1 align="center">Assalama Alaykum, I'm Nuriddin Mahmud</h1>
+![image](https://github.com/user-attachments/assets/eaf9c631-aa83-4a3b-bf16-e220a9ab5eed)<h1 align="center">Assalama Alaykum, I'm Nuriddin Mahmud</h1>
 <h2 align="center">A passionate Full-Stack developer from Uzbekistan</h2>
 
 
@@ -9,13 +9,8 @@
 ██║ ╚████║ ╚██████╔╝ ██║ ██║  ██║ ██████╔╝ ██████╔╝  ██║ ██║ ╚████║
 ╚═╝  ╚═══╝  ╚═════╝  ╚═╝ ╚═╝  ╚═╝ ╚═════╝  ╚═════╝   ╚═╝╚═╝  ╚═══╝
 
-
-    ______                            
-   / ____/  ______  ___  ____  _____(_)   _____
-  / __/ | |/_/ __ \/ _ \/ __ \/ ___/ / | / / _ \
- / /____>  </ /_/ /  __/ / / (__  ) /| |/ /  __/ 
-/_____/_/|_/ .___/\___/_/ /_/____/_/ |___/\___/
-          /_/                                       
+ <img src="![image](https://github.com/user-attachments/assets/6ef171de-e1b8-43e2-bcf8-0ab5de443898)
+"/> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
