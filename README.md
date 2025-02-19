@@ -1,6 +1,4 @@
-![image](https://github.com/user-attachments/assets/eaf9c631-aa83-4a3b-bf16-e220a9ab5eed)<h1 align="center">Assalama Alaykum, I'm Nuriddin Mahmud</h1>
-<h2 align="center">A passionate Full-Stack developer from Uzbekistan</h2>
-
+![image](https://github.com/user-attachments/assets/eaf9c631-aa83-4a3b-bf16-e220a9ab5eed)
  <img src="![image](https://github.com/user-attachments/assets/6ef171de-e1b8-43e2-bcf8-0ab5de443898)
 "/> 
 
