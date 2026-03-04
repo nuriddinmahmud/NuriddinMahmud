@@ -46,16 +46,6 @@
 </a>
  </p>
 <p>
-  <img align="left" 
-       src="https://github-readme-stats.vercel.app/api/top-langs?username=nuriddinmahmud&show_icons=true&locale=en&layout=compact&bg_color=0D1117&text_color=ffffff&title_color=ffffff"
-       alt="nuriddinmahmud" />
-</p>
-
-<p>
-  <img align="center" 
-       src="https://github-readme-stats.vercel.app/api?username=nuriddinmahmud&show_icons=true&locale=en&bg_color=0D1117&text_color=ffffff&title_color=ffffff"
-       alt="nuriddinmahmud" />
-</p>
 
 
 
